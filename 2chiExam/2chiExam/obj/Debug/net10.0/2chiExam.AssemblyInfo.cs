@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2chiExam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d91b3a583144637892b184a30cad3c96a474fc4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81a8f14064448bf155437b9f9f84417859c5635b")]
 [assembly: System.Reflection.AssemblyProductAttribute("2chiExam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2chiExam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

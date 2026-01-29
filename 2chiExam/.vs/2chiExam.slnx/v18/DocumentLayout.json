@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{234521F3-7FEC-F745-A356-0C388A4B119E}|2chiExam\\2chiExam.csproj|d:\\coding\\dotnet\\modulbir\\ikkinchimodulexam\\ikkinchimodulexam\\2chiexam\\2chiexam\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234521F3-7FEC-F745-A356-0C388A4B119E}|2chiExam\\2chiExam.csproj|solutionrelative:2chiexam\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234521F3-7FEC-F745-A356-0C388A4B119E}|2chiExam\\2chiExam.csproj|d:\\coding\\dotnet\\modulbir\\ikkinchimodulexam\\ikkinchimodulexam\\2chiexam\\2chiexam\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234521F3-7FEC-F745-A356-0C388A4B119E}|2chiExam\\2chiExam.csproj|solutionrelative:2chiexam\\services\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234521F3-7FEC-F745-A356-0C388A4B119E}|2chiExam\\2chiExam.csproj|d:\\coding\\dotnet\\modulbir\\ikkinchimodulexam\\ikkinchimodulexam\\2chiexam\\2chiexam\\dtos\\movieupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234521F3-7FEC-F745-A356-0C388A4B119E}|2chiExam\\2chiExam.csproj|solutionrelative:2chiexam\\dtos\\movieupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234521F3-7FEC-F745-A356-0C388A4B119E}|2chiExam\\2chiExam.csproj|d:\\coding\\dotnet\\modulbir\\ikkinchimodulexam\\ikkinchimodulexam\\2chiexam\\2chiexam\\dtos\\moviecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234521F3-7FEC-F745-A356-0C388A4B119E}|2chiExam\\2chiExam.csproj|solutionrelative:2chiexam\\dtos\\moviecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234521F3-7FEC-F745-A356-0C388A4B119E}|2chiExam\\2chiExam.csproj|d:\\coding\\dotnet\\modulbir\\ikkinchimodulexam\\ikkinchimodulexam\\2chiexam\\2chiexam\\dtos\\moviegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234521F3-7FEC-F745-A356-0C388A4B119E}|2chiExam\\2chiExam.csproj|solutionrelative:2chiexam\\dtos\\moviegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234521F3-7FEC-F745-A356-0C388A4B119E}|2chiExam\\2chiExam.csproj|d:\\coding\\dotnet\\modulbir\\ikkinchimodulexam\\ikkinchimodulexam\\2chiexam\\2chiexam\\extesions\\movieextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{234521F3-7FEC-F745-A356-0C388A4B119E}|2chiExam\\2chiExam.csproj|solutionrelative:2chiexam\\extesions\\movieextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{234521F3-7FEC-F745-A356-0C388A4B119E}|2chiExam\\2chiExam.csproj|d:\\coding\\dotnet\\modulbir\\ikkinchimodulexam\\ikkinchimodulexam\\2chiexam\\2chiexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{234521F3-7FEC-F745-A356-0C388A4B119E}|2chiExam\\2chiExam.csproj|solutionrelative:2chiexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{234521F3-7FEC-F745-A356-0C388A4B119E}|2chiExam\\2chiExam.csproj|d:\\coding\\dotnet\\modulbir\\ikkinchimodulexam\\ikkinchimodulexam\\2chiexam\\2chiexam\\2chiexam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{234521F3-7FEC-F745-A356-0C388A4B119E}|2chiExam\\2chiExam.csproj|solutionrelative:2chiexam\\2chiexam.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieUpdateDto.cs",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\2chiExam\\Dtos\\MovieUpdateDto.cs",
+              "RelativeDocumentMoniker": "2chiExam\\Dtos\\MovieUpdateDto.cs",
+              "ToolTip": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\2chiExam\\Dtos\\MovieUpdateDto.cs",
+              "RelativeToolTip": "2chiExam\\Dtos\\MovieUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T12:23:51.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieExtension.cs",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\2chiExam\\Extesions\\MovieExtension.cs",
+              "RelativeDocumentMoniker": "2chiExam\\Extesions\\MovieExtension.cs",
+              "ToolTip": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\2chiExam\\Extesions\\MovieExtension.cs",
+              "RelativeToolTip": "2chiExam\\Extesions\\MovieExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T10:57:31.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieGetDto.cs",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\2chiExam\\Dtos\\MovieGetDto.cs",
+              "RelativeDocumentMoniker": "2chiExam\\Dtos\\MovieGetDto.cs",
+              "ToolTip": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\2chiExam\\Dtos\\MovieGetDto.cs",
+              "RelativeToolTip": "2chiExam\\Dtos\\MovieGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T10:36:13.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieCreateDto.cs",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\2chiExam\\Dtos\\MovieCreateDto.cs",
+              "RelativeDocumentMoniker": "2chiExam\\Dtos\\MovieCreateDto.cs",
+              "ToolTip": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\2chiExam\\Dtos\\MovieCreateDto.cs",
+              "RelativeToolTip": "2chiExam\\Dtos\\MovieCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T10:35:48.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMovieService.cs",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\2chiExam\\Services\\IMovieService.cs",
+              "RelativeDocumentMoniker": "2chiExam\\Services\\IMovieService.cs",
+              "ToolTip": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\2chiExam\\Services\\IMovieService.cs",
+              "RelativeToolTip": "2chiExam\\Services\\IMovieService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T10:33:51.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\2chiExam\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "2chiExam\\Services\\MovieService.cs",
+              "ToolTip": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\2chiExam\\Services\\MovieService.cs",
+              "RelativeToolTip": "2chiExam\\Services\\MovieService.cs",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAuwEsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T10:33:15.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "2chiExam",
+              "DocumentMoniker": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\2chiExam\\2chiExam.csproj",
+              "RelativeDocumentMoniker": "2chiExam\\2chiExam.csproj",
+              "ToolTip": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\2chiExam\\2chiExam.csproj",
+              "RelativeToolTip": "2chiExam\\2chiExam.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T10:31:23.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\2chiExam\\Program.cs",
               "RelativeDocumentMoniker": "2chiExam\\Program.cs",
               "ToolTip": "D:\\Coding\\DotNet\\ModulBir\\IkkinchiModulExam\\IkkinchiModulExam\\2chiExam\\2chiExam\\Program.cs",
               "RelativeToolTip": "2chiExam\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T09:11:04.881Z",
               "EditorCaption": ""
